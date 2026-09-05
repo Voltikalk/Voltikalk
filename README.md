@@ -1,146 +1,54 @@
 <div align="center">
 
-# 𝙆𝙧𝙖𝙪𝙨𝙚
+  <!-- Баннер в стиле Матрицы (capsule-render) -->
+  <img src="https://capsule-render.vercel.app/api?type=matrix&color=0F0&height=180&section=header&text=VOLTIKALK // SECURITY OPERATOR&fontSize=50&fontColor=0F0&fontAlignY=50" width="100%" />
 
-### WEB DEVELOPER · CREATIVE ENGINEER
+  <h3>> WELCOME, Krause.</h3>
 
-`Interfaces` · `Animation` · `Visuals` · `Code`
+  <p>System status: Active.<br>Objective: Optimal network performance.<br>Current mission: The Grid.<br>Access: Root.</p>
 
-<br>
-
-[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=39ff88)](https://t.me/)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=39ff88)](https://discord.com/)
+  <!-- Социальные кнопки (shields.io с зеленой темой) -->
+  <!-- ЗАМЕНИТЕ ССЫЛКИ НА СВОИ! -->
+  <p>
+    <a href="https://t.me/ваш_юзернейм" target="_blank">
+      <img src="https://img.shields.io/badge/TELEGRAM-000?style=for-the-badge&logo=telegram&logoColor=0F0" alt="Telegram" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://discord.com" target="_blank">
+      <img src="https://img.shields.io/badge/DISCORD-000?style=for-the-badge&logo=discord&logoColor=0F0" alt="Discord" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## `// ABOUT ME`
-
-```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│  Web developer focused on clean interfaces,      │
-│  unusual aesthetics and smooth interactions.    │
-│                                                  │
-│  UI       → minimal / responsive / precise       │
-│  Motion   → animation / interaction              │
-│  Visual   → anime / cyber / dark aesthetics      │
-│  Code     → clean / fast / experimental          │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
-
-> 「未来を設計する。」
-
----
-
-## `// STACK`
-
-### FRONTEND
+### 🛠 ТЕХНОЛОГИЧЕСКИЙ СТЕК
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-</p>
-
-### TOOLS / DESIGN
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite" />
-
+  <!-- Зеленые иконки (skillicons.dev в темном режиме) -->
+  <img src="https://skillicons.dev/icons?i=python,bash,rust,docker,kubernetes,ansible,terraform,git&theme=dark" />
 </p>
 
 ---
 
-## `// CURRENTLY BUILDING`
-
-```text
-01 ── modern web interfaces
-02 ── experimental UI systems
-03 ── interactive animations
-04 ── personal digital projects
-05 ── things that probably didn't need to exist
-```
-
----
-
-## `// PHILOSOPHY`
+### 📊 СИСТЕМНАЯ СТАТИСТИКА
 
 <div align="center">
-
-### `LESS NOISE. MORE CHARACTER.`
-
-Clean code.  
-Sharp visuals.  
-Smooth interactions.
-
-<br>
-
-`Don't build another template.`
-
-`Build something people remember.`
-
+  <!-- Перекрашенные виджеты (github-readme-stats и streak-stats с ручными зелеными цветами) -->
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Voltikalk&show_icons=true&theme=matrix&bg_color=000&title_color=0F0&icon_color=0C0&text_color=0F0" width="48%" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Voltikalk&layout=compact&theme=matrix&bg_color=000&title_color=0F0&text_color=0F0" width="42%" alt="Top Languages" />
 </div>
 
----
-
-## `// PROJECTS`
-
-<table>
-<tr>
-<td width="50%">
-
-### `Comms`
-
-A modern communication project.
-
-`TypeScript` · `UI/UX`
-
-</td>
-<td width="50%">
-
-### `More soon...`
-
-Experimental projects, interfaces
-and weird ideas.
-
-`building...`
-
-</td>
-</tr>
-</table>
-
----
-
-## `// GITHUB ACTIVITY`
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Voltikalk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=8b949e&icon_color=39ff88" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Voltikalk&hide_border=true&background=0d1117&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&sideLabels=8b949e&dates=8b949e" height="165" />
-
-</div>
-
----
-
-## `// CONTRIBUTIONS`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Voltikalk&bg_color=0d1117&color=39ff88&line=39ff88&point=ffffff&area=true&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=Voltikalk&theme=matrix&hide_border=true&background=000&ring=0F0&fire=0F0&currStreakLabel=0F0" width="90%" alt="Commit Streak" />
 </div>
 
 ---
 
 <div align="center">
-
-### `夜は長い。コードを書こう。`
-
-`KRAUSE / VOLTIKALK`
-
+  <sub>---[SYSTEM LOGS STORED]---</sub>
 </div>
