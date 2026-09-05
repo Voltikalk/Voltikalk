@@ -1,22 +1,21 @@
 <div align="center">
 
-  <!-- Крупный жирный заголовок с нормальным шрифтом (Montserrat 800) -->
-  <a href="https://github.com/Voltikalk">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=650&height=80&lines=VOLTIKALK;WEB+DEVELOPER;TURNING+IDEAS+INTO+REALITY" alt="Header Typing" />
-  </a>
+  <!-- Баннер в стиле Матрицы (capsule-render) -->
+  <img src="https://capsule-render.vercel.app/api?type=matrix&color=0F0&height=180&section=header&text=VOLTIKALK // SECURITY OPERATOR&fontSize=50&fontColor=0F0&fontAlignY=50" width="100%" />
 
-  <p align="center">
-    <b>Интерфейсы</b> • <b>Анимации</b> • <b>Креативный продакшен</b>
-  </p>
+  <h3>> WELCOME, Krause.</h3>
 
-  <!-- Социальные кнопки с неоновым акцентом -->
-  <p align="center">
-    <a href="https://t.me/ваш_логин" target="_blank">
-      <img src="https://img.shields.io/badge/TELEGRAM-00F0FF?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram" />
+  <p>System status: Active.<br>Objective: Optimal network performance.<br>Current mission: The Grid.<br>Access: Root.</p>
+
+  <!-- Социальные кнопки (shields.io с зеленой темой) -->
+  <!-- ЗАМЕНИТЕ ССЫЛКИ НА СВОИ! -->
+  <p>
+    <a href="https://t.me/ваш_юзернейм" target="_blank">
+      <img src="https://img.shields.io/badge/TELEGRAM-000?style=for-the-badge&logo=telegram&logoColor=0F0" alt="Telegram" />
     </a>
     &nbsp;&nbsp;
     <a href="https://discord.com" target="_blank">
-      <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+      <img src="https://img.shields.io/badge/DISCORD-000?style=for-the-badge&logo=discord&logoColor=0F0" alt="Discord" />
     </a>
   </p>
 
@@ -24,41 +23,32 @@
 
 ---
 
-### ⚡ ОБО МНЕ
+### 🛠 ТЕХНОЛОГИЧЕСКИЙ СТЕК
 
-* 🚀 **Разработка:** проектирую современные, быстрые и чистые веб-интерфейсы.
-* 🎯 **Фокус:** отзывчивый UI, плавные микровзаимодействия и выверенная эстетика.
-* 🎧 **Вайб:** ритм, битмейкинг, визуальный стиль и новые технологии.
-* 💡 **Цель:** создавать проекты с характером, а не скучные шаблоны.
-
----
-
-### 🛠 АРСЕНАЛ & ТЕХНОЛОГИИ
-
-<div align="center">
-
-  <p><b>Frontend & База</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
-
-  <br/><br/>
-
-  <p><b>Инструменты & Дизайн</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite&theme=dark" />
-
-</div>
+<p align="center">
+  <!-- Зеленые иконки (skillicons.dev в темном режиме) -->
+  <img src="https://skillicons.dev/icons?i=python,bash,rust,docker,kubernetes,ansible,terraform,git&theme=dark" />
+</p>
 
 ---
 
-### 📊 АКТИВНОСТЬ НА ПЛАТФОРМЕ
+### 📊 СИСТЕМНАЯ СТАТИСТИКА
 
 <div align="center">
-  <!-- Надежный виджет стрика в единой неоновой палитре с заголовком -->
-  <img src="https://streak-stats.demolab.com?user=Voltikalk&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E" width="90%" alt="Streak Stats" />
+  <!-- Перекрашенные виджеты (github-readme-stats и streak-stats с ручными зелеными цветами) -->
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Voltikalk&show_icons=true&theme=matrix&bg_color=000&title_color=0F0&icon_color=0C0&text_color=0F0" width="48%" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Voltikalk&layout=compact&theme=matrix&bg_color=000&title_color=0F0&text_color=0F0" width="42%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&section=footer&height=2" width="100%" />
-  <sub>✦ <i>Stay focused. Build the future.</i> ✦</sub>
+  <img src="https://streak-stats.demolab.com?user=Voltikalk&theme=matrix&hide_border=true&background=000&ring=0F0&fire=0F0&currStreakLabel=0F0" width="90%" alt="Commit Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>---[SYSTEM LOGS STORED]---</sub>
 </div>
